@@ -1,4 +1,4 @@
-# Prediction_using_supervised_ML-
+# Git Version Control-
 Introduction
 
 The purpose of this document is to provide information on using Git for version control for a student's prediction model that aims to find the ideal number of hours a student should study to score good marks. Git is a widely used version control system that enables developers to manage changes to their code base, collaborate with others, and track the history of their project.
