@@ -14,7 +14,8 @@ Once you have installed Git, you can create a new repository. A repository is a 
 csharp
 Copy code
 '''python
-$ git init '''
+$ git init 
+'''
 Step 3: Adding Files to the Repository
 
 Once you have created your repository, you can add your prediction model and other relevant files to the repository. To add files to your repository, you need to run the following commands:
