@@ -29,15 +29,20 @@ Replace <file-name> with the name of the file you want to add. You can also add 
 
 csharp
 Copy code
+ 
+```
 $ git add .
+```
+ 
 Step 4: Committing Changes
 
 Once you have added your files to the repository, you need to commit your changes. Committing changes allows you to save your progress and create a new version of your project. To commit your changes, run the following command:
 
 ruby
 Copy code
- 
+```
 $ git commit -m "Initial commit"
+ ```
  
 The -m option is used to provide a commit message, which describes the changes you have made.
 
@@ -47,7 +52,9 @@ If you want to collaborate with others on your project, you can push your change
 
 perl
 Copy code
+```
 $ git push origin master
+```
 Replace origin with the name of your remote repository, and master with the name of your branch.
 
 Conclusion
