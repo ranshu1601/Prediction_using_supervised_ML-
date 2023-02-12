@@ -13,16 +13,18 @@ Once you have installed Git, you can create a new repository. A repository is a 
 
 csharp
 Copy code
-'''python
+```
 $ git init 
-'''
+```
 Step 3: Adding Files to the Repository
 
 Once you have created your repository, you can add your prediction model and other relevant files to the repository. To add files to your repository, you need to run the following commands:
 
 csharp
 Copy code
+```
 $ git add <file-name>
+```
 Replace <file-name> with the name of the file you want to add. You can also add all the files in your repository by running the following command:
 
 csharp
@@ -34,7 +36,9 @@ Once you have added your files to the repository, you need to commit your change
 
 ruby
 Copy code
+ 
 $ git commit -m "Initial commit"
+ 
 The -m option is used to provide a commit message, which describes the changes you have made.
 
 Step 5: Pushing Changes to a Remote Repository
