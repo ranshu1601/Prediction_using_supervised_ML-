@@ -13,7 +13,7 @@ Once you have installed Git, you can create a new repository. A repository is a 
 
 csharp
 Copy code
-'''
+'''python
 $ git init '''
 Step 3: Adding Files to the Repository
 
